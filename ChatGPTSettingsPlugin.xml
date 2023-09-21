@@ -1,0 +1,31 @@
+<application>
+  <component name="com.obiscr.chatgpt.settings.OpenAISettingsState">
+    <option name="accessToken" value="eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ik1UaEVOVUpHTkVNMVFURTRNMEZCTWpkQ05UZzVNRFUxUlRVd1FVSkRNRU13UmtGRVFrRXpSZyJ9.eyJodHRwczovL2FwaS5vcGVuYWkuY29tL3Byb2ZpbGUiOnsiZW1haWwiOiJkb25nZ2k5MzEzQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlfSwiaHR0cHM6Ly9hcGkub3BlbmFpLmNvbS9hdXRoIjp7InVzZXJfaWQiOiJ1c2VyLWNuZ0RqVkcxOGVnMldqdXg3SnM2elIxMCJ9LCJpc3MiOiJodHRwczovL2F1dGgwLm9wZW5haS5jb20vIiwic3ViIjoiZ29vZ2xlLW9hdXRoMnwxMTU5MzQzMTkwOTU5NTIzMzY2NzMiLCJhdWQiOlsiaHR0cHM6Ly9hcGkub3BlbmFpLmNvbS92MSIsImh0dHBzOi8vb3BlbmFpLm9wZW5haS5hdXRoMGFwcC5jb20vdXNlcmluZm8iXSwiaWF0IjoxNjkzNzg2Mjg0LCJleHAiOjE2OTQ5OTU4ODQsImF6cCI6IlRkSkljYmUxNldvVEh0Tjk1bnl5d2g1RTR5T282SXRHIiwic2NvcGUiOiJvcGVuaWQgcHJvZmlsZSBlbWFpbCBtb2RlbC5yZWFkIG1vZGVsLnJlcXVlc3Qgb3JnYW5pemF0aW9uLnJlYWQgb3JnYW5pemF0aW9uLndyaXRlIG9mZmxpbmVfYWNjZXNzIn0.AEMtgaDj3lEQ6EolF4M_HQdjWYlQXkAg3lbVhtxuP62A4Jct1-tU7TCQsI6Kci0Juck8AxjBuwwXKuNAAsDdTmMBFKMKiIbgL7Rn5Xg2lLJurfIIX0Yo-3Smq-CES4LS2xk2TbtE5kLw2ApbP37Jjd0EiJO6f1Tm2EeHUCi3tyBnNGysy-Up_zJe5a4vbrZN5RSkUauiYs-zx7uI6i9Ok_rac8gP-Q0gxQb4lZJwCcwqIgFbAW4goLsOZvivVtxnoHlOt-6iYBYXe79GZCpsIKEp_QmciWKkgRwC3Q7YJkWEGxlukHRL68Hfn3d46XlnshWe6fdR3NFdWvwLkk31TA" />
+    <option name="expireTime" value="2023-12-12T01:34:35.071Z" />
+    <contentStatesAll>
+      <list>
+        <ChatGPTContentState>
+          <order>1</order>
+          <enable>true</enable>
+          <content>EasyCode</content>
+        </ChatGPTContentState>
+        <ChatGPTContentState>
+          <enable>true</enable>
+          <content>ChatGPT</content>
+        </ChatGPTContentState>
+        <ChatGPTContentState>
+          <order>2</order>
+          <enable>true</enable>
+          <content>GPT-3.5-Turbo</content>
+        </ChatGPTContentState>
+        <ChatGPTContentState>
+          <order>3</order>
+          <enable>true</enable>
+          <content>Online ChatGPT</content>
+        </ChatGPTContentState>
+      </list>
+    </contentStatesAll>
+    <option name="easyCodeAccessToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjk1MDEyNDcxLCJpYXQiOjE2OTQ1NjgyMTAsImp0aSI6ImRhZmRjZjFjMTQ2OTQ5NmVhYTc4YWI5NDBiZTkzNWNlIiwidXNlcl9pZCI6MzUxNzk5fQ.ZFx3x9SJdXnBZo_OVnJKJNkEcX0KvTdSGS83AzaaPNw" />
+    <option name="easyCodeRefreshToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY5NjIyMTE3MSwiaWF0IjoxNjk1MDExNTcxLCJqdGkiOiI0ZjZjMzkxZmZmOGI0NTBmYWFmOWMzOTZmMzk5YzI1YyIsInVzZXJfaWQiOjM1MTc5OX0.QpOhYIOuT4ezeRVcD87MrfhuFYO2IM3FfccEQBshAlg" />
+  </component>
+</application>

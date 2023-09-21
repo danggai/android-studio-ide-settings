@@ -1,0 +1,10 @@
+<templateSet group="AndroidComments">
+  <template name="class comment" value="/**&#10;* $Text$&#10;* @author danggai&#10;* @since $date$&#10;**/" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="Text" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>

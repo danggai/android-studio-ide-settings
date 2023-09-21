@@ -1,0 +1,22 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="favorites">
+      <list>
+        <option value="package:mine " />
+        <option value="package:danggai.app.resinwidget" />
+      </list>
+    </option>
+    <option name="nonFavorites">
+      <list>
+        <option value="package:mine &lt;--" />
+        <option value="package:mine &lt;-- " />
+        <option value="package:kr.danal.app.damoum.dev " />
+        <option value="package:com.pnk.bartong.ui.dev " />
+        <option value="package:" />
+        <option value="package:kr.danal.app.damoum.dev" />
+        <option value="package:genshin" />
+        <option value="package:genshinpackage:genshin" />
+      </list>
+    </option>
+  </component>
+</application>
