@@ -5,13 +5,13 @@
     <contentStatesAll>
       <list>
         <ChatGPTContentState>
+          <enable>true</enable>
+          <content>ChatGPT</content>
+        </ChatGPTContentState>
+        <ChatGPTContentState>
           <order>1</order>
           <enable>true</enable>
           <content>EasyCode</content>
-        </ChatGPTContentState>
-        <ChatGPTContentState>
-          <enable>true</enable>
-          <content>ChatGPT</content>
         </ChatGPTContentState>
         <ChatGPTContentState>
           <order>2</order>
@@ -25,7 +25,7 @@
         </ChatGPTContentState>
       </list>
     </contentStatesAll>
-    <option name="easyCodeAccessToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjk1MDEyNDcxLCJpYXQiOjE2OTQ1NjgyMTAsImp0aSI6ImRhZmRjZjFjMTQ2OTQ5NmVhYTc4YWI5NDBiZTkzNWNlIiwidXNlcl9pZCI6MzUxNzk5fQ.ZFx3x9SJdXnBZo_OVnJKJNkEcX0KvTdSGS83AzaaPNw" />
-    <option name="easyCodeRefreshToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY5NjIyMTE3MSwiaWF0IjoxNjk1MDExNTcxLCJqdGkiOiI0ZjZjMzkxZmZmOGI0NTBmYWFmOWMzOTZmMzk5YzI1YyIsInVzZXJfaWQiOjM1MTc5OX0.QpOhYIOuT4ezeRVcD87MrfhuFYO2IM3FfccEQBshAlg" />
+    <option name="easyCodeAccessToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjk1Njk2MDQxLCJpYXQiOjE2OTUwMTE1NzEsImp0aSI6IjdkZmE4ZTc4MmMyZDRiZWNiMWQzY2VkMDdmZjA0OTk1IiwidXNlcl9pZCI6MzUxNzk5fQ.496v1fET_XO63br82ZgB9QQP5Vfs9qVgrb4-GrRHwsg" />
+    <option name="easyCodeRefreshToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY5NjkwNDc0MSwiaWF0IjoxNjk1Njk1MTQxLCJqdGkiOiIwYWQ0YjFmNzIxZTI0NmY4YTg3MmYxNTlkYjZiMjlkYyIsInVzZXJfaWQiOjM1MTc5OX0.YVDUfxON3wu2yZQ_w3JTU-e0QoaHt1BAnGoG-jOnLlw" />
   </component>
 </application>
