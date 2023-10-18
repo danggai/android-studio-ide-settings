@@ -8,6 +8,7 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="package:mine AppSession" />
         <option value="package:mine &lt;--" />
         <option value="package:mine &lt;-- " />
         <option value="package:kr.danal.app.damoum.dev " />
