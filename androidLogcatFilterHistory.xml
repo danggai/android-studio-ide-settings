@@ -6,10 +6,10 @@
         <option value="package:danggai.app.resinwidget" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
         <option value="package:mine" />
+        <option value="package:mine   " />
         <option value="package:mine marketing" />
         <option value="package:mine PasswordInputFragArgs" />
         <option value="package:mine AppSession" />
