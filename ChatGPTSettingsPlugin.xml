@@ -25,8 +25,8 @@
         </ChatGPTContentState>
       </list>
     </contentStatesAll>
-    <option name="easyCodeAccessToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzAxMzk1MDIwLCJpYXQiOjE3MDEyMzI3OTcsImp0aSI6ImUwMmM2MWIwYTBmNDRlMzk5OTk5NTlhZTU5ZmUwYzc5IiwidXNlcl9pZCI6NDgxMTMzfQ.huB9qvLtSl5li-mh-5hZYdq7n3T31Mt3EuymkCMx4Hk" />
-    <option name="easyCodeRefreshToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTcwMjYwMzcyMCwiaWF0IjoxNzAxMzk0MTIwLCJqdGkiOiJiOWZiMjg3NzkzZTY0YmE0YWQ4MWQwMWFjNWI2NGE4OSIsInVzZXJfaWQiOjQ4MTEzM30.Psyl022JLoofJflhQgIywArCUhfTQuSLz3wkm0Xrlb8" />
+    <option name="easyCodeAccessToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzAxMzk4ODg5LCJpYXQiOjE3MDEzOTQxMjAsImp0aSI6IjA1YzgzOWYwODFlMDQ3M2E5ZTcwZWRlZGY0MWFlMzA5IiwidXNlcl9pZCI6NDgxMTMzfQ.s7o65Sh6Uaejwk4WieAbi91ujd0HePFlBA3Az6tcqMw" />
+    <option name="easyCodeRefreshToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTcwMjYwNzU4OSwiaWF0IjoxNzAxMzk3OTg5LCJqdGkiOiJkNzgzNWQ5NmFkYmQ0Y2RhYTVkNTk2NWM5MTc4Yzc3NiIsInVzZXJfaWQiOjQ4MTEzM30.9gf7kuAG-4UsLD2RAv912fByzu4Jz0MlLjX87VzX3dQ" />
     <option name="easyCodeUserEmail" value="donggi9313@gmail.com" />
   </component>
 </application>
